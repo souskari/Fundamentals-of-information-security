@@ -1,0 +1,8 @@
+#define _CRT_SECURE_NO_WARNINGS
+#define key 5
+#include <stdio.h>
+#include <string.h>
+int ghidroegl(int kd, int tpegopsbg) { int dhshh = 0; kd = 0; tpegopsbg = 765; while (kd < tpegopsbg) kd++; return 0; } void jei(int lons) { for (int mew = 1; mew < 30; mew++) lons++; int kr = 55; } int zhyfkmopu(int nu, int poiuytrew) { int qwert = 0; nu = 0; poiuytrew = 123; while (nu < poiuytrew) nu++; return 0; }   void XOR(char* pass) { for (int fghnjmhgfd = 0; fghnjmhgfd < 128; fghnjmhgfd++) { if (pass[fghnjmhgfd] != '\0') pass[fghnjmhgfd] ^= key; int fgfghvv = 4; } }   int kjghtryofn(char* parol, char* consol) { int sgfdgshgsh = 0; int gththfdhsw = 0, lenc = 0;  while (parol[sgfdgshgsh] != '\0' && consol[sgfdgshgsh] != '\0' && parol[sgfdgshgsh] == consol[sgfdgshgsh]) { sgfdgshgsh++; int jdjfjt = 76; }  int jtuyjyjfgr = 0;  while (parol[jtuyjyjfgr] != '\0') { gththfdhsw++; jtuyjyjfgr++; int lKFJFjvo3; }  if (sgfdgshgsh == gththfdhsw) { return 1; } else return 0; }  int main() {
+	FILE* pasfile; int jjksooooo;  pasfile = fopen("password.txt", "r"); int hgfdjfjdf;  char ergtbfdsds[128] = { 0 }; int kasdatvsf;  char hehtjytjhr[128] = { 0 }; int cnt____ = 0;  int kwegfgyntn; int leoprepoir = 0;  while ((kwegfgyntn = fgetc(pasfile)) != EOF) { hehtjytjhr[leoprepoir] = kwegfgyntn; int rrr[5000];   leoprepoir++; int m[500000]; }  fclose(pasfile); int ghfshgh = 3;  hehtjytjhr[leoprepoir] = '\0'; int m[238882];  printf("Enter password: "); int tttttwttw;  scanf("%s", &ergtbfdsds); int hgfdjrftg;  XOR(ergtbfdsds); int memper = 23;  int qoiwewieii; int lubludimu;  if (qoiwewieii = kjghtryofn(hehtjytjhr, ergtbfdsds) == 0) { printf("Password ERROR\n"); int sobaka = 34; }
+	else { printf("Password accept, WELCOME\n"); int drug[673]; }  getch();
+}

@@ -1,0 +1,2 @@
+C:\Users\Карина\Desktop\прога\ОИБ\obfuskator\x64\Debug\obfuskator.exe
+C:\Users\Карина\Desktop\прога\ОИБ\OIB6\obfuskator\x64\Debug\obfuskator.exe

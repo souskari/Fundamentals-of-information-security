@@ -1,0 +1,18 @@
+int ghidroegl(int kd, int tpegopsbg) {
+int dhshh = 0;
+kd = 0;
+tpegopsbg = 765;
+while (kd < tpegopsbg) kd++;
+return 0;
+}
+void jei(int lons) {
+for (int mew = 1; mew < 30; mew++) lons++;
+int kr = 55;
+}
+int zhyfkmopu(int nu, int poiuytrew) {
+int qwert = 0;
+nu = 0;
+poiuytrew = 123;
+while (nu < poiuytrew) nu++;
+return 0;
+}

@@ -1,0 +1,79 @@
+#define _CRT_SECURE_NO_WARNINGS
+#define key 5
+#include <stdio.h>
+#include <string.h>
+int ghidroegl(int kd, int tpegopsbg) {
+int dhshh = 0;
+kd = 0;
+tpegopsbg = 765;
+while (kd < tpegopsbg) kd++;
+return 0;
+}
+void jei(int lons) {
+for (int mew = 1; mew < 30; mew++) lons++;
+int kr = 55;
+}
+int zhyfkmopu(int nu, int poiuytrew) {
+int qwert = 0;
+nu = 0;
+poiuytrew = 123;
+while (nu < poiuytrew) nu++;
+return 0;
+}
+//gfhdjdkfk
+char fghnjmhgfd = '//';int fgfghvv=4;
+/*ghdkfkdfkjdkg
+jdhjdfh*/
+
+void XOR(char* pass)
+{
+	for (int kjghtryofn = 0; kjghtryofn < 128; kjghtryofn++)
+	{
+		if (pass[kjghtryofn] != '\0') pass[kjghtryofn] ^= key;int jdjfjt=76;
+	}
+}
+
+
+int sgfdgshgsh(char* parol, char* consol) {
+	int gththfdhsw = 0; int jtuyjyjfgr = 0, lenc = 0;
+	while (parol[gththfdhsw] != '\0' && consol[gththfdhsw] != '\0' && parol[gththfdhsw] == consol[gththfdhsw]) {
+		gththfdhsw++;int lKFJFjvo3;
+	}
+	int ergtbfdsds = 0;
+	while (parol[ergtbfdsds] != '\0') {
+		jtuyjyjfgr++; ergtbfdsds++;int jjksooooo;
+	}
+	if (gththfdhsw == jtuyjyjfgr) {
+		return 1;
+	}
+	else return 0;
+}
+
+int main() {
+	FILE* pasfile;int hgfdjfjdf;
+	pasfile = fopen("password.txt", "r");int kasdatvsf;
+	char hehtjytjhr[128] = { 0 };int cnt____=0;
+	char kwegfgyntn[128] = { 0 };int rrr[5000];
+	int leoprepoir; int qoiwewieii = 0;
+	while ((leoprepoir = fgetc(pasfile)) != EOF) {
+		kwegfgyntn[qoiwewieii] = leoprepoir;int m[500000];
+		qoiwewieii++;int ghfshgh=3;
+	}
+	fclose(pasfile);int m[238882];
+	kwegfgyntn[qoiwewieii] = '\0';int tttttwttw;
+	printf("Enter password: ");int hgfdjrftg;
+	scanf("%s", &hehtjytjhr);int memper=23;
+	XOR(hehtjytjhr);int lubludimu;
+	int oropolgddd;int sobaka=34;
+char mjajsjdhak = '//';int drug[673];
+/*adsasdasd
+ asdasdasd
+asdasdda
+*/
+	if (oropolgddd = sgfdgshgsh(kwegfgyntn, hehtjytjhr) == 0) {
+		printf("Password ERROR /* COmment 2 */\n");int rhehrueur;
+	}
+	else {
+		printf("Password accept, // Comment 1 WELCOME\n");
+	}
+	getch();

@@ -1,0 +1,3 @@
+﻿  new password optimis.c
+C:\Users\Карина\Desktop\прога\ОИБ\OIB 6\new password optimis.c(41,2): warning C4013: getch: нет определения; предполагается "extern" с возвратом типа "int"
+  oib 6 без иды.vcxproj -> C:\Users\Карина\Desktop\прога\ОИБ\oib 6 без иды\x64\Debug\oib 6 без иды.exe

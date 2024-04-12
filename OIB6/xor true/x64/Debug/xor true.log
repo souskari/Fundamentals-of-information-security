@@ -1,0 +1,3 @@
+﻿  Source.c
+C:\Users\Карина\Desktop\прога\ОИБ\xor true\Source.c(52,2): warning C4013: getch: нет определения; предполагается "extern" с возвратом типа "int"
+  xor true.vcxproj -> C:\Users\Карина\Desktop\прога\ОИБ\xor true\x64\Debug\xor true.exe
